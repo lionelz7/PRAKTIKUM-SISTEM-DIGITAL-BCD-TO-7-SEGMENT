@@ -29,19 +29,18 @@ Berikut adalah gambar tata letak komponen, koneksi kabel (wiring), serta visuali
 <img width="469" height="230" alt="image" src="https://github.com/user-attachments/assets/ef79255f-6382-4ee8-a076-6d4075093aaa" />
 
 ### 3. Tabel Kebenaran BCD to 7-Segment
-
-| INPUT (DCBA) | Tampilan Angka Desimal | 
-| :---: | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 | 0 | **0** | 
-| 0 | 0 | 0 | 1 | **1** | 
-| 0 | 0 | 1 | 0 | **2** | 
-| 0 | 0 | 1 | 1 | **3** | 
-| 0 | 1 | 0 | 0 | **4** |
-| 0 | 1 | 0 | 1 | **5** | 
-| 0 | 1 | 1 | 0 | **6** |
-| 0 | 1 | 1 | 1 | **7** |
-| 1 | 0 | 0 | 0 | **8** |
-| 1 | 0 | 0 | 1 | **9** |
+| INPUT (DCBA) | Tampilan Angka Desimal |
+| :---: :---: :---: :---: | :---: |
+| 0 \| 0 \| 0 \| 0 | **0** |
+| 0 \| 0 \| 0 \| 1 | **1** |
+| 0 \| 0 \| 1 \| 0 | **2** |
+| 0 \| 0 \| 1 \| 1 | **3** |
+| 0 \| 1 \| 0 \| 0 | **4** |
+| 0 \| 1 \| 0 \| 1 | **5** |
+| 0 \| 1 \| 1 \| 0 | **6** |
+| 0 \| 1 \| 1 \| 1 | **7** |
+| 1 \| 0 \| 0 \| 0 | **8** |
+| 1 \| 0 \| 0 \| 1 | **9** |
 
 ---
 
