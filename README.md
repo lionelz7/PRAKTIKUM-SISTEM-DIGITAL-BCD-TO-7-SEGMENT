@@ -30,7 +30,7 @@ Berikut adalah gambar tata letak komponen, koneksi kabel (wiring), serta visuali
 
 ### 3. Tabel Kebenaran BCD to 7-Segment
 | INPUT (DCBA) | Tampilan Angka Desimal |
-| :---: :---: :---: :---: | :---: |
+| :---: | :---: |
 | 0 \| 0 \| 0 \| 0 | **0** |
 | 0 \| 0 \| 0 \| 1 | **1** |
 | 0 \| 0 \| 1 \| 0 | **2** |
